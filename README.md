@@ -1,6 +1,8 @@
 # tooltipdemo
 
 > A Vue.js project
+# vue气泡提示框在线预览地址
+> https://volodya-01.github.io/vue_tooptip-view/
 
 ## Build Setup
 
